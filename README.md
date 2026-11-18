@@ -1,2 +1,2 @@
 # Power_BI
-RBI Financial Data Analysis Dashboard | Power BI
+Airlined Data Analysis Dashboard | Power BI
